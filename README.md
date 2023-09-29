@@ -14,6 +14,7 @@
 <h3>Our Projects</h3>
 <hr/>
 <p1>*Small Businesses <br/>*Investment in Real Estate</p1>
+<br/>
 <a href="https://forms.gle/jGChB1BtPg6X3YvJA">Royalty Form</a>
  </body>
 
