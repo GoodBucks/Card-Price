@@ -15,8 +15,6 @@
 <hr/>
 <p1>*Small Businesses <br/>*Investment in Real Estate</p1>
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfrTpWVPd8Jd8w3CP4YaZLQJrcYv0hUNF-q8aHObpcw5bo3Qw/viewform?embedded=true" width="640" height="823" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
  </body>
 
 </html>
