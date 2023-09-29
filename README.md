@@ -15,6 +15,9 @@
 <hr/>
 <p1>*Small Businesses <br/>*Investment in Real Estate</p1>
 <br/>
+<hr/>
+<h4>Royalty 8%</h4>
+<hr/>
 <a href="https://forms.gle/jGChB1BtPg6X3YvJA">Royalty Form</a>
  </body>
 
